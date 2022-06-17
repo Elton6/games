@@ -5,7 +5,7 @@ namespace myTiles {
 
     helpers._registerFactory("tile", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "transparency16":return transparency16;
+            case "transparency17":return transparency17;
         }
         return null;
     })
