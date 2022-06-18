@@ -1,4 +1,4 @@
-//% color="#AA278D" icon="\uf025"
+//% color="#0760f0" icon="\uf025"
 
 //% groups="['Pizza Games', 'Veggies']"
 namespace gamesPlus {
